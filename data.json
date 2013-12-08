@@ -1,0 +1,43 @@
+[
+  {
+    "name":"Esraa Abdel Fattah",
+    "img_url":"profile-pic/esraa.png",
+    "country":"Egypt",
+    "biography":"Prominent political activitist ",
+    "video_url":"http://www.youtube.com/embed/fJVwKd_OBi4",
+    "quote_1":"I want a democratic Egypt",
+    "quote_2":"I have learned that the power of any country lies in its people",
+    "influence":"47"
+    
+  },
+  {
+    "name":"Hawa Abdi",
+    "img_url":"profile-pic/hawa.png",
+    "country":"Somalia",
+    "biography":"Providing safety and healthcare to the women of Somalia",
+    "video_url":"http://www.youtube.com/embed/l0WENROEFA8",
+    "quote_1":"I thought I should be able to help others so that they won't feel such pain. So I decided to become a doctor",
+    "quote_2":"I felt like I could do something for the people who need me",
+    "influence":"20"
+  },
+  {
+    "name":"Shatha Al-Harazi",
+    "img_url":"profile-pic/shatha.png",
+    "country":"Yemen",
+    "biography":"Social media activist and political and human rights journalist",
+    "video_url":"http://www.youtube.com/embed/Wc-isJIWGHk",
+    "quote_1":"",
+    "quote_2":"",
+    "influence":"40"
+  },
+  {
+    "name":"Malala Yousafzai",
+    "img_url":"profile-pic/malala.png",
+    "country":"Pakistan",
+    "biography":"Child activist for women's education",
+    "video_url":"http://www.youtube.com/embed/k_sIP08PZ6I",
+    "quote_1":"We realize the importance of our voices only when we are silenced",
+    "quote_2":"I don't want revenge on the Taliban, I want education for sons and daughters of the Taliban. One child, one teacher, one book, one pen can change the world",
+    "influence":"100"
+  }
+]

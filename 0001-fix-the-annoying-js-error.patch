@@ -1,0 +1,28 @@
+From 517e80fab668d89c5f7c37c9197cba97d812bc4e Mon Sep 17 00:00:00 2001
+From: Rudi Grinberg <rudi.grinberg@gmail.com>
+Date: Sat, 7 Dec 2013 14:48:15 -0800
+Subject: [PATCH 1/2] fix the annoying js error
+
+---
+ listview.html | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/listview.html b/listview.html
+index 3198f27..e2b1df6 100644
+--- a/listview.html
++++ b/listview.html
+@@ -202,7 +202,10 @@
+         function  endlessMachineCallback(){
+             var x= 0;
+             var progressionIterator = self.setInterval(function(){
+-                    document.getElementById("inspireButton").className=progression[x];
++                    var inspireButton = document.getElementById("inspireButton");
++                    if (inspireButton) {
++                          inspireButton.className=progression[x];
++                    }
+                     x++;
+ 
+                     console.log("Running Apple breathing animation  ");
+-- 
+1.8.3.4 (Apple Git-47)
+

@@ -1,0 +1,67 @@
+
+{"Sara":{
+    "quote": "I am just awesome",
+    "img": "images/android.png",
+    "peopleAffected":1000,
+    "lat":35.607832,
+    "lng":-92.695364,
+    "color":"#CD5C5C", 
+    "email":"rasharasem@gmail.com"
+},
+"Laura":{
+    "quote": "I am just super duper awesome",
+    "img": "images/avatar.png",
+    "peopleAffected":2000,
+    "lat":32.326488,
+    "lng":-82.971113,
+    "color":"#FFB6C1",
+    "email":"rasharasem@gmail.com"
+},
+"Dilys":{
+    "quote": "Awesomeness. Awesomeness everywhere!",
+    "img": "images/star.png",
+    "peopleAffected":2500,
+    "lat":46.417000,
+    "lng":46.417000,
+    "color":"#BA55D3",
+    "email":"rasharasem@gmail.com"
+},"Malala":{
+    "quote": "We realize the importance of our voices only when we are silenced",
+    "img": "images/avatar1.png",
+    "peopleAffected":7000,
+    "lat":29.297225,
+    "lng":-110.330881,
+    "color":"#FFE4E1",
+    "email":"rasharasem@gmail.com"
+},
+"Blah":{
+    "quote": "Food is awesome",
+    "img": "images/avatar.png",
+    "peopleAffected":8000,
+    "lat":53.687558,
+    "lng":-108.572385,
+    "color":"#FFC0CB",
+    "email":"rasharasem@gmail.com"
+},
+"Another Blah":{
+    "quote": "Food is awesome",
+    "img": "images/avatar.png",
+    "peopleAffected":8000,
+    "lat":-6.641659,
+    "lng":-51.972821,
+    "color":"#D8BFD8",
+    "email":"rasharasem@gmail.com"
+},"An Awesome Blah":{
+    "quote": "Tell me how much I am inspiring",
+    "img": "images/avatar.png",
+    "peopleAffected":8000,
+    "lat":21.167228,
+    "lng":26.419389,
+    "color":"#F5DEB3",
+    "email":"rasharasem@gmail.com"
+}
+}
+
+
+
+
